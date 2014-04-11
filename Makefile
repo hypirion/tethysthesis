@@ -13,7 +13,7 @@
 # 
 # The Current Maintainer of this work is Jean Niklas L'orange.
 #
-# This work consists of the files Makefile.
+# This work consists of the files Makefile, thesis.tex and config.tex.
 
 LATEX = pdflatex
 BIBTEX = biber
