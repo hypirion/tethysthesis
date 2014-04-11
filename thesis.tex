@@ -47,7 +47,7 @@
 
 \include{fb/front}
 
-%% Abstract
+%% Abstract and acknowledgements
 \thispagestyle{plain}
 \pagenumbering{alph}
 \input{abstract}
@@ -55,8 +55,12 @@
 \input{acknowledgements}
 \skiponepage
 
+%% A list of TOCS
 \pagenumbering{roman}
+\phantomsection
+\addcontentsline{toc}{chapter}{Contents}
 \tableofcontents
+\AllLists
 \skiponepage
 
 \pagenumbering{arabic}
