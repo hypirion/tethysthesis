@@ -9,9 +9,6 @@ documentation.
 
 ## Introduction
 
-**NOTE: Tethys Thesis is still not ready for production. Do not expect it to be
-  stable.**
-
 Tethys Thesis is a template heavily based upon my own workflow on projects and
 LaTeX experience taylored towards computer scientists. It may not suit you, but
 at least it suits me well.
@@ -20,6 +17,7 @@ Notable choices include:
 
 * Bibliography is handled with biblatex, not bibtex
 * For listings, Minted is used instead of lstlistings
+* For algorithms, the package *algpseudocode* is used
 * Running `make repeatedly` runs latexmk, making it easier to do "agile" LaTeX
   development
 
