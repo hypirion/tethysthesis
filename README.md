@@ -21,6 +21,17 @@ Notable choices include:
 * Running `make repeatedly` runs latexmk, making it easier to do "agile" LaTeX
   development
 
+## Setup
+
+You have to install both the latexmk and a boatload of LaTeX packages. I tend to
+just do
+
+```bash
+sudo apt-get install texlive-full latexmk
+```
+
+on Debian-based systems.
+
 ## License
 
 Source Copyright © 2014 Jean Niklas L'orange. Licensed under the LaTeX Project
