@@ -5,7 +5,8 @@
 </p>
 
 Tethys Thesis is a LaTeX template for computer science theses and project
-documentation.
+documentation. An example of the template can be shown
+[here](http://hypirion.com/pdf/tethysthesis.pdf).
 
 ## Introduction
 
